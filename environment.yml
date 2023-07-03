@@ -1,0 +1,15 @@
+name: env2D
+
+channels:
+- conda-forge
+- defaults
+
+dependencies:
+- nest-simulator=2.18
+- pip
+- matplotlib
+- numpy
+- ipykernel
+- spyder-kernels
+- pip:
+    - jupyter
