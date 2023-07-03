@@ -6,7 +6,7 @@ This repository accompanies the paper "Ring Attractors as the Basis for a Biomim
 
 ## The model in action:
 
-![Animated Ring Attractor Visualisation](https://github.com/TomKnowles1994/GridCellPredNet/blob/main/corrected_vs_uncorrected_short.gif "Animated Ring Attractor Visualisation")
+![Animated Ring Attractor Visualisation](https://github.com/TomKnowles1994/Biomimetics-Ring-Attractors/blob/main/Figures/Figure%202%20-%20Animated.gif "Animated Ring Attractor Visualisation")
 
 This animation illustrates the model produced. It consists of three spiking Ring Attractors that together model a robot's planar translation. Each ring attractor is sensitive to a component of velocity, with their ring state mapping to coordinates in (x, y) to form the green trace. The goal of the system is to follow the ground truth robot trajectory (blue trace) as closely as possible.
 
