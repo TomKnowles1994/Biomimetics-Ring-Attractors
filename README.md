@@ -43,3 +43,9 @@ Results generated in the course of this study can be found in the [Results folde
    5. Power Consumption.ipynb
   
 4. Run Statistics.ipynb to generate the results and accompanying Figures 4, 5 and 6.
+
+## Special Thanks
+
+Kyle McDonald, for his helpful [Gist](https://gist.github.com/kylemcdonald/6132fc1c29fd3767691442ba4bc84018 "Link to line intersection gist"), built upon to form part of the Ring-to-Cartesian transformation
+
+Rachael Stentiford, who designed the [original](https://github.com/TomKnowles1994/HeadDirectionPredNet/blob/main/NEST/HD_SNN_corrections.ipynb "Link to original ring attractor model") Ring Attractor model and virtual environment
