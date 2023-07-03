@@ -26,7 +26,7 @@ Results generated in the course of this study can be found in the [Results folde
 
 ### Requirements
 
-- Ubuntu 18.04 or higher (native or WSL)
+- Ubuntu 20.04.4 LTS (native or WSL)
 - Python 3 installed
 - Jupyter Lab install
 
