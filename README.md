@@ -14,7 +14,7 @@ This is supported by sensory data from the robot, synthesised into multisensory 
 
 ## Data
 
-The PCN experiences used to trigger corrective input can be found on the EBRAINS Knowledge Graph [EBRAINS Knowledge Graph](http://doi.org/10.25493/TSTK-AKK "Link to the PCN dataset").
+The PCN experiences used to trigger corrective input can be found on the [EBRAINS Knowledge Graph](http://doi.org/10.25493/TSTK-AKK "Link to the PCN dataset").
 
 The rat trajectory data used to generate Figure 2 is taken from [Sargolini et al. (2006)](https://www.science.org/doi/10.1126/science.1125572 "Link to the Sargolini et al paper")
 
