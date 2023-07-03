@@ -14,9 +14,32 @@ This is supported by sensory data from the robot, synthesised into multisensory 
 
 ## Data
 
-Data generated in the course of this study can be found in the ![Results folder](https://github.com/TomKnowles1994/Biomimetics-Ring-Attractors/tree/main/Results "Link to the Results folder").
+The PCN experiences used to trigger corrective input can be found on the EBRAINS Knowledge Graph [EBRAINS Knowledge Graph](http://doi.org/10.25493/TSTK-AKK "Link to the PCN dataset").
 
-The PCN experiences used to trigger corrective input can be found on the EBRAINS Knowledge Graph ![EBRAINS Knowledge Graph](http://doi.org/10.25493/TSTK-AKK "Link to the PCN dataset").
+The rat trajectory data used to generate Figure 2 is taken from [Sargolini et al. (2006)](https://www.science.org/doi/10.1126/science.1125572 "Link to the Sargolini et al paper")
 
-The rat trajectory data used to generate Figure 2 is taken from ![Sargolini et al. (2006)](https://www.science.org/doi/10.1126/science.1125572 "Link to the Sargolini et al paper")
+## Results
 
+Results generated in the course of this study can be found in the [Results folder](https://github.com/TomKnowles1994/Biomimetics-Ring-Attractors/tree/main/Results "Link to the Results folder").
+
+## Reproducing the study
+
+### Requirements
+
+- Ubuntu 18.04 or higher (native or WSL)
+- Python 3 installed
+- Jupyter Lab install
+
+### Steps
+
+1. Download the PCN experience files listed under **Data**
+2. Use the [environment.yml](https://github.com/TomKnowles1994/Biomimetics-Ring-Attractors/blob/main/environment.yml "Link to the environment file") to create a new virtual environment
+3. Run the following:-
+
+   1. Uncorrected.ipynb
+   2. Multimodal.ipynb
+   3. Visual.ipynb
+   4. Tactile.ipynb
+   5. Power Consumption.ipynb
+  
+4. Run Statistics.ipynb to generate the results and accompanying Figures 4, 5 and 6.
