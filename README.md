@@ -1,8 +1,8 @@
 # Biomimetics Ring Attractors
 
-This repository accompanies the paper "Ring Attractors as the Basis for a Biomimetic Navigation System" Thomas C. Knowles, Anna Summerton, James G.H. Whiting and Martin J. Pearson.
+This repository accompanies the paper "Ring Attractors as the Basis for a Biomimetic Navigation System" by Thomas C. Knowles, Anna Summerton, James G.H. Whiting and Martin J. Pearson.
 
---- link pending ---
+Published in _Biomimetics_ at https://doi.org/10.3390/biomimetics8050399
 
 ## The model in action:
 
@@ -14,7 +14,7 @@ This is supported by sensory data from the robot, synthesised into multisensory 
 
 ## Data
 
-The robot trajectories and the PCN experiences used to trigger corrective input can be found on the [here](https://we.tl/t-Jb3unP2Gy0 "Link to the trajectory and PCN datasets").
+The robot trajectories and the PCN experiences used to trigger corrective input can be found [here](https://we.tl/t-Jb3unP2Gy0 "Link to the trajectory and PCN datasets").
 
 The rat trajectory data used to generate Figure 2 is taken from [Sargolini et al. (2006)](https://www.science.org/doi/10.1126/science.1125572 "Link to the Sargolini et al paper")
 
